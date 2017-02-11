@@ -37,3 +37,16 @@
            
   return 0;
   }
+
+
+
+  #include <cstdio>
+  using namespace std;
+  int main()  
+  {
+   char y [20] = "ahmed";
+   printf("%s" ,y);
+           
+  return 0;
+  }
+ 
