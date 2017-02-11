@@ -1,0 +1,39 @@
+  #include <cstudio>
+  using namespace std;
+  int main (int argc, charr**argv)  
+  {
+  puts("hello");
+  return 0;
+  }
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   #include <cstdio>
+  using namespace std;
+  int main()  
+  {
+    int in;  
+  float fl;
+  short sh;
+  char ch;
+  long int li;
+  in = 100;
+  fl =200;
+  ch = 8;
+  sh = 4;
+
+  printf ("in = %d\n" ,in);
+   printf ("in = %d\n" ,sizeof in);
+    printf ("fl = %d\n" ,sizeof (fl));
+      printf ("sh = %d\n" ,sizeof sh);
+        printf ("li = %d\n" ,li);
+          printf ("ch = %d\n" ,ch);
+      
+           
+  return 0;
+  }
