@@ -63,3 +63,98 @@ int *p =& x;
   printf("p = %d\n" ,*p);
   }
  
+ 
+ 
+ 
+ printf cout
+ 
+ 
+ 
+ #include <iostream>
+  #include <cstdio>
+  using namespace std;
+ 
+  int main()
+ 
+  {
+  string name = ali;
+  int age = 22;
+  string work = student;
+  string place = university;
+  cout<<"my name is"<<name<<"years old and i am working as a"<<work<<"at"<<place;
+  }
+   
+ #include <iostream>
+  #include <cstdio>
+  using namespace std;
+ 
+  int main()
+ 
+  {
+  string name = "ali";
+  int age = 22;
+  string work = "student";
+  string place = "university";
+  cout<<"my name is "<<name<<" and i am "<<age<<" years old and i am working as a "<<work <<" at "<<place;
+
+  }
+  
+  
+ #include <cstdio>
+ #include <iostream>
+  using namespace std;
+ 
+    int main ()  
+ {
+       string name = "ali";
+       int age =22 ; 
+  printf("my name is = %s\n" ,name.c_str());
+   
+  }
+ 
+ , "and i am  = %s\n" ,int.c_str()
+ 
+ 
+ 
+ 
+ 
+ #include <cstdio>
+ #include <iostream>
+
+#include <iomanip>
+using namespace std;
+ 
+    int main ()  
+ {
+     
+   cout <<set w (8)<<"each"<<"word"<<"is"<<"tabbed"<<"over"<<"once";
+ 
+  
+  }
+ 
+ 
+ 
+ #include <cstdio>
+ #include <iostream>
+  using namespace std;
+ 
+    int main ()  
+ {
+     
+     string name;
+     int age;
+     string job;
+     
+  cout<<"what is your name";   
+  
+  cin>>name;
+  cout<<"what is your age";
+  
+   cin>>age;
+   cout<<"what is your job";
+  cin>>job;
+ 
+  }
+  
+  
+  
