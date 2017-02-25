@@ -114,6 +114,9 @@ int *p =& x;
  
  , "and i am  = %s\n" ,int.c_str()
  
+
+   char x[20]=""; instead of string
+ 
  
  
  
